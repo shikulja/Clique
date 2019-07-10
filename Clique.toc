@@ -7,7 +7,6 @@
 ## OptionalDeps: Ace2, DewdropLib
 ## RequiredDeps: !Libs
 
-Clique.lua
 Locale\Localization.en.lua
 Locale\Localization.ru.lua
 Locale\Localization.fr.lua
@@ -15,6 +14,8 @@ Locale\Localization.de.lua
 Locale\Localization.zh.lua
 Locale\Localization.kr.lua
 Locale\CliqueOptionsLocalization.lua
+
+Clique.lua
 CliqueOptions.lua
 CliqueUtils.lua
 Clique.xml

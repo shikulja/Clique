@@ -7,5 +7,9 @@ Clique is a simple addon that enables powerful click-casting and hover-casting o
  - This code is almost entirely the hard work of [Cladhaire](https://wow.curseforge.com/members/Cladhaire) and Gello with some additions to extend support for plugins that have been created/updated for World of Warcraft 1.12 (Vanilla).
  - Support for [LunaUnitFrames](https://github.com/Aviana/LunaUnitFrames) was originally added by someone else. (Unknown) and then later replaced by me to make use of the `Luna_Custom_ClickFunction` support now present in the LunaUnitFrames
  - If there's an attribution missing please let me know.
+ 
+## 
 
+ - Этот форк, небольшая адаптация под русский. Оригинальный гит kxseven/Clique
+ - требует !Libs для работы аддона
 

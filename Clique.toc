@@ -2,6 +2,7 @@
 ## Title: Clique
 ## Author: Cladhaire
 ## Notes: Simply powerful click-casting interface
+## Notes-ruRU: Позволяет назначать способности, макросы на клик мышки
 ## SavedVariables: CliqueDB
 ## OptionalDeps: Ace2, DewdropLib
 
@@ -19,10 +20,13 @@ libs\AceModuleCore\AceModuleCore-2.0.lua
 libs\Dewdrop\Dewdrop-2.0.lua
 
 Clique.lua
-Localization.en.lua
-Localization.fr.lua
-Localization.de.lua
-Localization.zh.lua
+Locale\Localization.en.lua
+Locale\Localization.ru.lua
+Locale\Localization.fr.lua
+Locale\Localization.de.lua
+Locale\Localization.zh.lua
+Locale\Localization.kr.lua
+Locale\CliqueOptionsLocalization.lua
 CliqueOptions.lua
 CliqueUtils.lua
 Clique.xml
